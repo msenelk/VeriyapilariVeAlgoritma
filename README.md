@@ -75,7 +75,11 @@ Best Case: (2)
 |Tekrar ikili ikili sıralayarak birleştiriyoruz.  |||11|16|21||||8|12|22||
 |Son birleştirmede küçükten büyüğe sıralıyoruz.  ||||8|11|12|16|21|22||||
 
-### Soru - 2 O(7*(log7)) Cevap
+### Soru - 2 Cevap
+
+```
+O(7*(log7))
+```
 
 
 
