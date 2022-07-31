@@ -9,6 +9,6 @@ Projeler tek bir dosya halinde olmaktan çıkartılıp ayrı ayrı Markdown olar
 
 [Merge Sort Projesi](https://github.com/mybounds/VeriyapilariVeAlgoritma/blob/main/MergeSort.md)
 
-
+[Binary Search Tree Projesi](https://github.com/mybounds/VeriyapilariVeAlgoritma/blob/main/BinarySearchTree.md)
 
 [Patika.dev](http://www.patika.dev)
